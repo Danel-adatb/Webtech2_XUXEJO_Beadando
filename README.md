@@ -9,13 +9,13 @@ az én esetemben MySQL-t használtam, MySQL Workbenchet.
 
 {
 
-  "host": "localhost",
+    "host": "localhost",
   
-  "user": "root",
+    "user": "root",
   
-  "database": "posts",
+    "database": "posts",
   
-  "password": "< password >"
+    "password": "< password >"
   
 }
 
